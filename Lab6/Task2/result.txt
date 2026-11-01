@@ -1,0 +1,12 @@
+T = 10000.00 min; seed = 20261101
+Arrived: 40000; completed: 39946; remaining: 54
+Mean residence time: 9.174342 min
+Throughput: 3.994600 parts/min
+Device 1 utilization: 0.884182
+Device 2 utilization: 0.852073
+Device 3 utilization: 0.814522
+Device 4 utilization: 0.751469
+Device 5 utilization: 0.689432
+Mean busy devices: 3.991677
+Mean parts in system: 36.815327
+Returns after device 5: 28166; max simultaneous movements per transition: 52
