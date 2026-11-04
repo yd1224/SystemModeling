@@ -1,0 +1,1 @@
+PASS: initial state; sales; review timing; threshold 18; order quantity; delivery after 3 weeks; multichannel delivery; loss/backorder branches; backlog priority; loss intervals; 0.8/0.2 routing; horizon clipping; seeded repeatability; inventory and customer balances.

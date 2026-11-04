@@ -6,14 +6,16 @@
       <sourceFolder url="file://$MODULE_DIR$/Lab6/Task2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lab6/Task2/vendor" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Lab6/Task2/build" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab6/Task3/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab6/Task3/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
       <library name="Lab6 SLF4J">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/Lab6/lib/slf4j-api-2.0.17.jar!/" />
-          <root url="jar://$MODULE_DIR$/Lab6/lib/slf4j-nop-2.0.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/Lab6/Task2/lib/slf4j-api-2.0.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/Lab6/Task2/lib/slf4j-nop-2.0.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

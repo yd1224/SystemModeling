@@ -1,0 +1,7 @@
+T = 10000.00 weeks; seed = 20261101
+Customers: 49571; sold: 45321; lost: 4250; waiting: 0
+Final stock H: 34; outstanding O: 0
+Orders: 715; ordered units: 45283; received units: 45283
+Mean stock: 28.837833 refrigerators
+Mean interval between lost sales: 2.348652 weeks
+Inventory and customer balance checks: PASS
